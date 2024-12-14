@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979227594200",
+    "project_id": "kfueit-social-app",
+    "storage_bucket": "kfueit-social-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979227594200:android:ba3a23e0eca9d7cf6476ad",
+        "android_client_info": {
+          "package_name": "com.example.job_posting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979227594200-pe2j2ahe13samfshnutpbd4cm1od0h87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOF1deGzyaYpI9mdvhfkOC-vuIvkf8LxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979227594200-pe2j2ahe13samfshnutpbd4cm1od0h87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
